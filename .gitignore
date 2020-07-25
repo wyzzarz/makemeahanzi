@@ -3,3 +3,8 @@
 .meteor
 .DS_Store
 node_modules
+svgs
+svgs-still
+stroke_caps
+stats.py
+example.gif
